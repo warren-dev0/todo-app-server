@@ -1,4 +1,5 @@
 {
     "users": [],
-    "default-groups": []
+    "default-groups": [],
+    "security-questions": ["¿Cuál es el nombre de tu primera mascota?", "¿Cuál es tu comida favorita?", "¿Cuál es tu color favorito?", "¿Cuál es tu película favorita?", "¿Cuál es tu canción favorita?", "¿Cuál es tu libro favorito?", "¿Cuál es tu deporte favorito?", "¿Cuál es tu equipo deportivo favorito?", "¿Cuál es tu lugar favorito?", "¿Cuál es tu ciudad favorita?", "¿Cuál es tu país favorito?"]
 }
